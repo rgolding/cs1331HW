@@ -1,0 +1,220 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Genre.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySetTester.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySet.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Netflix.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Genre.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySetTester.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySet.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Netflix.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Genre.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySetTester.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySet.java, /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Netflix.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Java sources to /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@4ce14574 directly...[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Netflix.java:20: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Library[0m
+[0m[[31merror[0m] [0m  location: class Netflix[0m
+[0m[[31merror[0m] [0mLibrary[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Netflix.java:21: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class Netflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:14: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:35: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySet.java:11: MySet is not abstract and does not override abstract method clear() in java.util.Set[0m
+[0m[[31merror[0m] [0mpublic class MySet<T> implements Set<T> {[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m    private T[] backingArray;[0m
+[0m[[31merror[0m] [0m    private int numElements;[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m    /* Implement methods here */[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m    /*[0m
+[0m[[31merror[0m] [0m    ----------------------------------------------[0m
+[0m[[31merror[0m] [0m    These methods are provided to help you, DO NOT MODIFY![0m
+[0m[[31merror[0m] [0m    Refer to the slides on Iterators if you want to learn more[0m
+[0m[[31merror[0m] [0m    http://cs1331.org/slides/iterators.pdf[0m
+[0m[[31merror[0m] [0m    */[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m    /**[0m
+[0m[[31merror[0m] [0m    * Returns an iterator if you wish to use it[0m
+[0m[[31merror[0m] [0m    * @return An iterator for the SimpleSet[0m
+[0m[[31merror[0m] [0m    */[0m
+[0m[[31merror[0m] [0m    public Iterator<T> iterator() {[0m
+[0m[[31merror[0m] [0m        return new MySetIterator();[0m
+[0m[[31merror[0m] [0m    }[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m    private class MySetIterator implements Iterator {[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m        private int index = 0;[0m
+[0m[[31merror[0m] [0m        public boolean hasNext() {[0m
+[0m[[31merror[0m] [0m            return index < numElements;[0m
+[0m[[31merror[0m] [0m        }[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m        public T next() {[0m
+[0m[[31merror[0m] [0m            return backingArray[index++];[0m
+[0m[[31merror[0m] [0m        }[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m        public void remove() {[0m
+[0m[[31merror[0m] [0m            MySet.this.remove(backingArray[index]);[0m
+[0m[[31merror[0m] [0m            index--;[0m
+[0m[[31merror[0m] [0m        }[0m
+[0m[[31merror[0m] [0m    }[0m
+[0m[[31merror[0m] [0m[0m
+[0m[[31merror[0m] [0m}[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Netflix.java:33: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Library[0m
+[0m[[31merror[0m] [0m  location: class Netflix[0m
+[0m[[31merror[0m] [0mLibrary[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Netflix.java:52: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class Netflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/Netflix.java:70: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class Netflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:23: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:71: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:79: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:82: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:84: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:86: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:88: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:90: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:92: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:94: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:96: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:98: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:101: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:103: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:105: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:107: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:109: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:111: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:113: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:115: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:117: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:119: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:121: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:123: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:125: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:127: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:129: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:131: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:133: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:135: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:137: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/PopulateNetflix.java:139: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   class Movie[0m
+[0m[[31merror[0m] [0m  location: class PopulateNetflix[0m
+[0m[[31merror[0m] [0mMovie[0m
+[0m[[0minfo[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySet.java: /Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySet.java uses unchecked or unsafe operations.[0m
+[0m[[0minfo[0m] [0m/Users/RachelGolding/cs1331/HW/hw4/hw-netflix-master/src/main/java/MySet.java: Recompile with -Xlint:unchecked for details.[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) javac returned nonzero exit code[0m

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/.DS_Store">
+<error line="1" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="1" column="24" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="2" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="3" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/CompositeDistrict.class">
+<error line="3" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/CompositeDistrict.java">
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/District.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/District.java">
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/LocalDistrict.class">
+<error line="3" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/LocalDistrict.java">
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/MergeSort.class">
+<error line="2" column="2" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="20" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/MergeSort.java">
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/resources/districts.txt">
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/resources/local_districts.txt">
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/resources/voters.txt">
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/Tester.class">
+<error line="31" column="8" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="47" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/Tester.java">
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/Voter.class">
+<error line="2" column="2" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/Users/RachelGolding/cs1331/HW/hw6/hw-voting-districts-master/src/main/java/Voter.java">
+</file>
+</checkstyle>

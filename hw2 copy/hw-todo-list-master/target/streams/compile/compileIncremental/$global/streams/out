@@ -1,0 +1,46 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Goal.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Task.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Username.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Goal.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Task.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Username.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Goal.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Task.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java, /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Username.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Java sources to /Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@b3fe72e directly...[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Task.java:36: '.class' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/Task.java:36: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:20: ')' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:23: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:24: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:24: > expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:24: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:24: illegal start of expression[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:24: ')' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:25: illegal start of expression[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:25: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:25: variable declaration not allowed here[0m
+[0m[[31merror[0m] [0m[[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:19: 'try' without 'catch', 'finally' or resource declarations[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:29: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:32: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:32: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:33: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:33: <identifier> expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:33: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:33: illegal start of type[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:33: <identifier> expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:33: ';' expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:39: class, interface, or enum expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:40: class, interface, or enum expected[0m
+[0m[[31merror[0m] [0m/Users/RachelGolding/cs1331/HW/hw2/hw-todo-list-master/src/main/java/TodoList.java:43: class, interface, or enum expected[0m
+[0m[[31merror[0m] [0mpublic [0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) javac returned nonzero exit code[0m
